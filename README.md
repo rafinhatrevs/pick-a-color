@@ -1,1 +1,1 @@
-Atividade + Pick a Color
+Activity - Pick a Color
